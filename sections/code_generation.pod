@@ -78,7 +78,7 @@ others:
 Woe to those who forget a backslash! Good luck convincing your syntax
 highlighter what's happening! Worse yet, each invocation of string C<eval>
 builds a new data structure representing the entire code, and compiling code
-isn't free, either. Yet Even with its limitations, this technique is simple.
+isn't free, either. Yet even with its limitations, this technique is simple.
 
 =head2 Parametric Closures
 
